@@ -1,0 +1,30 @@
+print("message) =>printa message in console
+
+type(object) =>return data type of object
+
+input("message") =>read value from console; returns string values
+
+round(object,precision)
+
+len()
+
+min(num1,num2) return smallest number
+
+max(num1,num2) returns largest number
+ 
+input("message).lower() # lower function is used after input function and it coverts the capital letter to small letters.
+
+def function_name(arg1,arg2,arg3,........arg=defaultValue)
+
+       function definition
+
+       return
+
+function_name(p1,p2...)       
+
+
+enumerate
+
+sorted
+
+reversed
